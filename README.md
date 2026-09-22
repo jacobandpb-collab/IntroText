@@ -106,3 +106,44 @@ See the [summaries/](/summaries/) folder for lecture note summaries by week.
 ## Ergnonomics
 - [Powerlifting as back pain prevention](https://www.youtube.com/watch?v=WxN9VzwoGGw) - by No Boilerplate
 
+## Number-Rows Characters
+- ~ - swiggled line
+- ! - exclamation mark
+- @ - at sign
+- \# - pound, hash, number sign
+- $ - dollar sign
+- % - percentage sign
+- ^ - top arrow
+- & - and sign
+- \* - star, asterisk
+- ( - open circular bracket
+- ) - close circular bracket
+- _ - underscore
+- \+ - plus
+
+## Links
+- [GitHub Pages](https://pages.github.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+
+## Emojis
+- :smile:
+- :smiley:
+- :arrow_down:
+- :canada:
+- :eu:
+
+## Images
+![Random Image](https://picsum.photos/320)
+
+## Checklist
+- [x] Learn Markdown
+- [x] Finish this lab
+- [ ] Finish other courses work
+
+## ASCII Art
+```
+ ____  __  __ _   ___  _  _    _  _  ____  ____  ____ 
+(  __)(  )(  ( \ / __)/ )( \  / )( \(  __)/ ___)(_  _)
+ ) _)  )( /    /( (__ ) __ (  \ /\ / ) _) \___ \  )(  
+(__)  (__)\_)__) \___)\_)(_/  (_/\_)(____)(____/ (__)
+```
